@@ -1,19 +1,20 @@
 <div align="center">
 
-```
+<pre>
  ██████╗ ██╗   ██╗    ██╗    ██╗ ██████╗ ██████╗ ██████╗ ███████╗
  ██╔══██╗╚██╗ ██╔╝    ██║    ██║██╔═══██╗██╔══██╗██╔══██╗██╔════╝
  ██████╔╝ ╚████╔╝     ██║ █╗ ██║██║   ██║██████╔╝██║  ██║███████╗
  ██╔═══╝   ╚██╔╝      ██║███╗██║██║   ██║██╔══██╗██║  ██║╚════██║
  ██║        ██║       ╚███╔███╔╝╚██████╔╝██║  ██║██████╔╝███████║
  ╚═╝        ╚═╝        ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚══════╝
-```
+</pre>
 
 ### ✦ the cosmic typing benchmark ✦
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-magenta?style=for-the-badge)](#installation)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
 
 *A terminal typing benchmark that lives among the stars — measure your speed, sharpen your accuracy, and type through the cosmos.*
 
